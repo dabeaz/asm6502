@@ -21,7 +21,7 @@ Addressing modes are as follows:
          %value,X       ; zero-page X indexed
          %value,Y       ; zero-page Y indexed
          value          ; absolute
-         value,X        ; absolute Y indexed
+         value,X        ; absolute X indexed
          value,Y        ; absolute Y indexed
          [value]        ; indirect
          [value,X]      ; indirect, X indexed
